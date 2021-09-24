@@ -459,7 +459,7 @@
   /* Centres vertically yo. (IE8+) */
   .vertical {
     display: table-cell;
-    vertical-align: middle;
+    /* vertical-align: middle; */
   }
   
   /* ==========================================================================
