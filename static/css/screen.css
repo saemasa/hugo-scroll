@@ -474,7 +474,8 @@
     height: 100%;
     margin-bottom: 0rem;
     text-align: center;
-    color: #fff;
+    /* color: #fff; */
+    color: #f2efe8;
     background: #CCFFCC no-repeat center center;
     background-size: cover;
   }
